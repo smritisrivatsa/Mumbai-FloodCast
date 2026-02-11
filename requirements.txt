@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+scikit-learn
+lightgbm
+catboost
+matplotlib
+plotly
+folium
+geopandas
+osmnx
+jupyter
+pyarrow
+pyyaml
+tqdm
