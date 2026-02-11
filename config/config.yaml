@@ -1,0 +1,15 @@
+project:
+  timezone: "Asia/Kolkata"
+  city_name: "Mumbai"
+
+weather:
+  provider: "meteostat"   # change later if you want
+  points:
+    - name: "mumbai_center"
+      lat: 19.0760
+      lon: 72.8777
+  start: "2023-06-01"
+  end: "2023-09-30"
+
+grid:
+  cell_size_m: 500
