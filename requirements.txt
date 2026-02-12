@@ -13,3 +13,7 @@ jupyter
 pyarrow
 pyyaml
 tqdm
+meteostat
+pyyaml
+pyarrow
+
